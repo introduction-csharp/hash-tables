@@ -8,7 +8,7 @@ The hashing algorithm is designed to allow for uniform coverage of all possible 
 
 Given there are fewer slots in the structure than there are possible values to store, there will be occasions where two items will have identicial keys, these are called _collisions_. 
 
-What to do in these cases? There are two approaches (cf. the attached diagrams): _linear probing_ and _chaining_. 
+What to do in these cases? There are two approaches: _linear probing_ and _chaining_. 
 
 (Well, strictly there's a third, to resize the array, but that's expensive and needs *all* keys to be recalculated.) 
 
@@ -16,7 +16,8 @@ What to do in these cases? There are two approaches (cf. the attached diagrams):
 
 - Bond 1, pp285--298. 
 - [Baeldung.com](https://www.baeldung.com/cs/hash-tables) 
-- 
+- [wikipedia](https://en.wikipedia.org/wiki/Hash_table)
+- [wikibooks](https://en.wikibooks.org/wiki/Data_Structures/Hash_Tables)
 
 ## Tasks
 
