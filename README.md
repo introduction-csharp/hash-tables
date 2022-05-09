@@ -24,3 +24,5 @@ What to do in these cases? There are two approaches: _linear probing_ and _chain
 See the [shared document](https://docs.google.com/document/d/1lXkSRJYWdgIysSzLaU5dLR_b3a0rKdVCAc9pabMqvec/edit?usp=sharing) for some things to do. 
 
 *NB* there is a built-in `Hashtable` class, you should ignore this for now. 
+
+There is an IHashTable.cs file in this repo which you could choose to use as the basis for the work outlined in the document. 
